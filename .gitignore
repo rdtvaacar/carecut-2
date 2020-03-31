@@ -6,3 +6,5 @@ package.json
 package-lock.json
 README.md
 yarn.lock
+/builds
+/.idea
